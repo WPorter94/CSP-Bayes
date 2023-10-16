@@ -1,10 +1,10 @@
 # CSP-Bayes
 
 ## Intro
-This Python project explores the connections between palate preferences, enrollment, and the concept of being awesome. By modeling these relationships as a Bayesian network, the program aims to estimate various probabilities based on different conditions.
+This Python project explores the connections between palate preferences, Moxie, enrollment, and the concept of being awesome. By modeling these relationships as a Bayesian network, the program aims to estimate various probabilities based on different conditions.
 
 ## How it Works
-The project defines a Bayesian network with nodes representing Palate (P), Enthusiasm (E), Moxie (M), and Awesomeness (A). Each node's state is influenced by its parent nodes, and their conditional probabilities are specified in the code.
+The project defines a Bayesian network with nodes representing Palate (P), Enrolled (E), Moxie (M), and Awesomeness (A). Each node's state is influenced by its parent nodes, and their conditional probabilities are specified in the code.
 
 The project provides three sampling methods to estimate probabilities:
 
